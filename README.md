@@ -11,10 +11,6 @@
 - 📫 How to reach me **thomasms213@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11ZKEVYvKVnZ1g6jc0zC9-buAgpgNoxln/view?usp=sharing](https://drive.google.com/file/d/11ZKEVYvKVnZ1g6jc0zC9-buAgpgNoxln/view?usp=sharing)
-
-<p align="left">
-</p>
-
 <br/>
 <br/>
 <br/>
