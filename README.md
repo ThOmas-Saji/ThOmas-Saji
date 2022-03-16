@@ -25,4 +25,4 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-saji&show_icons=true&locale=en&layout=compact" alt="thomas-saji" /></p>
 <br/>
 <br/>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-saji&" alt="thomas-saji" /></p>
+<p><img width=300px src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-saji&" alt="thomas-saji" /></p>
