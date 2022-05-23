@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Saji</h1>
 <h3 align="center">A passionate full-Stack web developer from India</h3>
 
+<div display="flex">
  <img align="right" width= '400px' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
 
 - 🌱 I’m currently learning **MERN**
@@ -14,6 +15,8 @@
 
 <h1 align="center">Languages and Tools:</h1>
 <table><tr><td valign="top" width="33%">
+ 
+ </div>
  
 ### Frontend  
 <div align="center">  
