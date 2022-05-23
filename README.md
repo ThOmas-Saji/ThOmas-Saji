@@ -4,7 +4,7 @@
 
 <div display="flex">
  <img align="right" width= '400px' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
-
+<div>
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **react, MERN**
@@ -12,11 +12,13 @@
 - 📫 How to reach me **thomasms213@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nLjFnv_HlVC5T1tkmH1RC0P63pu3ua3t/view?usp=sharing](https://drive.google.com/file/d/1nLjFnv_HlVC5T1tkmH1RC0P63pu3ua3t/view?usp=sharing)
-
-<h1 align="center">Languages and Tools:</h1>
-<table><tr><td valign="top" width="33%">
  
  </div>
+ </div>
+ 
+ <h1 align="center">Languages and Tools:</h1>
+<table><tr><td valign="top" width="33%">
+
  
 ### Frontend  
 <div align="center">  
