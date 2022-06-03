@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-Stack web developer from India</h3>
 
 <div display="flex">
- <img align="right" width= '400px' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
+ <img align="right" width= '200px' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
 <div>
 - 🌱 I’m currently learning **MERN**
 
