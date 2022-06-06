@@ -49,7 +49,7 @@ alt="thomas-saji"
  
  
  <div style="margin:5rem">
- <h1 align="center">Languages and Tools:</h1>
+ <h3 align="center">Languages and Tools</h3>
 <table><tr><td valign="top" width="33%">
 
  
