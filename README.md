@@ -7,12 +7,11 @@
 <ul>
  <br/>
  <br/>
- <br/>
-<li>- 🌱 I’m currently learning **MERN**</li>
+<li>- 🌱 I’m currently learning <h5>MERN</h5> </li>
 <br/>
-<li>- 💬 Ask me about **MERN_Stack**</li>
+ <li>- 💬 Ask me about <h5>MongoDB, Express, React, Nodejs</h5> </li>
 <br/>
-<li>- 📫 How to reach me **thomasms213@gmail.com**</li>
+<li>- 📫 How to reach me <h5>thomasms213@gmail.com</h5></li>
 <br/>
 <li>
 - 📄 Know about my experiences
@@ -107,15 +106,13 @@ alt="thomas-saji"
 <br/>  
 
 <h3 align="center">Github Stats </h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThOmas-Saji&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThOmas-Saji&show_icons=true&theme=radical" align="center" /></div>  
 
 <br/>  
-
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ThOmas-Saji&layout=compact&show_icons=true&theme=radical' alt='lang' />
+</div> 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ThOmas-Saji&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ThOmas-Saji&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
