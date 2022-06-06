@@ -2,23 +2,53 @@
 <h1 align="center">Hi 👋, I'm Thomas Saji</h1>
 <h3 align="center">A passionate full-Stack web developer from India</h3>
 
-<div display="flex">
 <div>
- <img width='40%' align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
+ <table ><tr><td valign="top" width="50%">
+<ul>
+ <br/>
+ <br/>
+ <br/>
+<li>- 🌱 I’m currently learning **MERN**</li>
+<br/>
+<li>- 💬 Ask me about **MERN_Stack**</li>
+<br/>
+<li>- 📫 How to reach me **thomasms213@gmail.com**</li>
+<br/>
+<li>
+- 📄 Know about my experiences
+<a
+href="https://drive.google.com/file/d/1nLjFnv_HlVC5T1tkmH1RC0P63pu3ua3t/view?usp=sharing"
+>click here</a
+>
+</li>
+ <br/>
+<li>
+<a href="https://www.linkedin.com/in/thomas-saji-63b1421b1/"
+>LinkedIn
+<img
+style="margin-top:5px"
+src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
+alt="linkedin"
+height="20"
+/>
+</a>
+</li>
+</ul>
+
+   </td>
+   <td valign="top" width="50%">
+<img
+width="100%"
+align="left"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+alt="thomas-saji"
+/>
+ </td>
+</tr></table>
 </div>
-<div width='50%' align="left">
- <ul>
-  <li>- 🌱 I’m currently learning **MERN**</li>
-
-  <li>- 💬 Ask me about **react, MERN**</li>
-
-  <li>- 📫 How to reach me **thomasms213@gmail.com**</li>
-
-  <li>- 📄 Know about my experiences [https://drive.google.com/file/d/1nLjFnv_HlVC5T1tkmH1RC0P63pu3ua3t/view?usp=sharing](https://drive.google.com/file/d/1nLjFnv_HlVC5T1tkmH1RC0P63pu3ua3t/view?usp=sharing)</li>
- </ul>
- </div>
- </div>
  
+ 
+ <div style="margin:5rem">
  <h1 align="center">Languages and Tools:</h1>
 <table><tr><td valign="top" width="33%">
 
@@ -73,10 +103,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-
+ </div>
 <br/>  
 
 
