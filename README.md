@@ -107,8 +107,6 @@ alt="thomas-saji"
 
 <h3 align="center">Github Stats </h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThOmas-Saji&show_icons=true&theme=radical" align="center" /></div>  
-
-<br/>  
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ThOmas-Saji&layout=compact&show_icons=true&theme=radical' alt='lang' />
 </div> 
