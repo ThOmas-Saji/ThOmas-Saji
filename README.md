@@ -3,9 +3,10 @@
 <h3 align="center">A passionate full-Stack web developer from India</h3>
 
 <div display="flex">
- <img align="right" width= '200px' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
- 
 <div>
+ <img width='40%' align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="thomas-saji" />
+</div>
+<div width='50%' align="left">
  <ul>
   <li>- 🌱 I’m currently learning **MERN**</li>
 
